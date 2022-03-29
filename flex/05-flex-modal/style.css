@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+/* Looking at the solution for this project on project odin, I really did more work than I needed to. In the end I did get my project to look just like the desired outcome, but I did not much work. I played around with the solution that was given on codepen, and I now see what I could have done. They were right that the solution was quite obvious, but not immediately obvious to me. I'm glad that I was able to get the project looking right, but I am also glad that when I took a look at the solution I was also able to see that I could have done. Trying to internalize all of this info to understand flexbox better. This is hard stuff, but doable. */
+
 html, body {
   height: 100%;
 }
